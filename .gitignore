@@ -1,4 +1,6 @@
 .env
+go.sum
 settings.json
 additions.txt
 markdown/
+.idea/
